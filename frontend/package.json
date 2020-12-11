@@ -1,0 +1,8 @@
+{
+  "name": "ui",
+  "private": true,
+  "workspaces": [
+    "ui/*",
+    "utils/*"
+  ]
+}
